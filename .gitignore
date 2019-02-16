@@ -1,0 +1,8 @@
+.vs/
+Library/
+Logs/
+Temp/
+*.swp
+FurTest.Editor
+*.csproj
+*.sln
