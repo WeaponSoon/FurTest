@@ -6,3 +6,6 @@ Temp/
 FurTest.Editor
 *.csproj
 *.sln
+Build/
+.vscode/
+obj/
