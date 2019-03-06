@@ -9,3 +9,4 @@ FurTest.Editor
 Build/
 .vscode/
 obj/
+Packages/
